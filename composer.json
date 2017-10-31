@@ -1,12 +1,12 @@
 {
-    "name": "wgriffioen/iban-validator",
+    "name": "hanscode44/iban-validator",
     "description": "A library to validate an IBAN",
     "minimum-stability": "dev",
     "license": "MIT",
     "authors": [
         {
-            "name": "Wim Griffioen",
-            "email": "wgriffioen@gmail.com"
+            "name": "Hans Loos",
+            "email": "hansloos.g1@gmail.com"
         }
     ],
     "require": {

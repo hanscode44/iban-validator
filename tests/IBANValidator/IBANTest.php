@@ -2,10 +2,12 @@
 
 namespace IBANValidator;
 
+use PHPUnit\Framework\TestCase;
+
 /**
  * @author Wim Griffioen <wgriffioen@gmail.com>
  */
-class IBANTest extends \PHPUnit_Framework_TestCase
+class IBANTest extends TestCase
 {
     public function testValidation()
     {

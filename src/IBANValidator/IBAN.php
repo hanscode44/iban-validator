@@ -8,9 +8,9 @@ namespace IBANValidator;
  */
 class IBAN
 {
-    const UNSUPPORTED_COUNTRY   = 1;
-    const INVALID_FORMAT        = 2;
-    const INVALID_IBAN          = 4;
+    const UNSUPPORTED_COUNTRY = 1;
+    const INVALID_FORMAT = 2;
+    const INVALID_IBAN = 4;
 
     /**
      * @param string $iban
@@ -47,4 +47,4 @@ class IBAN
 
         return $sum == 1;
     }
-} 
+}
